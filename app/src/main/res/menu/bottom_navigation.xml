@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/left"
+        android:icon="@drawable/outline_arrow_back_24"
+        android:title="Left"
+        />
+
+    <item
+        android:id="@+id/drop"
+        android:icon="@drawable/outline_arrow_downward_24"
+        android:title="Drop"
+        />
+
+    <item
+        android:id="@+id/right"
+        android:icon="@drawable/outline_arrow_forward_24"
+        android:title="Right"
+        />
+</menu>
